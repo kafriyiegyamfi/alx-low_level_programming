@@ -2,7 +2,7 @@ void
 reset_to_98(int *n);
 void swapint(int *a, int*b);
 int _strlen(char *s);
-void _puts(char c);
+void _puts(char *str);
 int _putchar(char c);
 void print_rev(char *s);
 void puts2(char *str);
