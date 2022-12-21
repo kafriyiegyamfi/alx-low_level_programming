@@ -20,7 +20,8 @@ while (index <  n)
 printf("%d", a[index]);
 
 if (index != n - 1)
-printf(",\s");
+printf(",");
+printf(" ");
 
 index++;
 }
