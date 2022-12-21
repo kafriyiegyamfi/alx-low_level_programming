@@ -15,7 +15,7 @@ while (str[index] != '\0')
 {
 if (index % 2 == 0)
 {
-_putchar(str[i]);
+_putchar(str[index]);
 }
 index++;
 }
