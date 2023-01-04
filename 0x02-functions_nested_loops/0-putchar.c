@@ -2,8 +2,9 @@
 
 int main(void)
 {
-char word[9]='_putchar';
-for (int x = 0 ; x < 8; x++)
+char word[9] = "_putchar";
+int x;
+for (x = 0 ; x < 8; x++)
 {
 _putchar(word[x]);
 }
